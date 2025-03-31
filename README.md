@@ -16,7 +16,9 @@ There are two parts of our code, which are for parametric approach probabilistic
 For each part, there are some notebooks for different experiments, take the parametric approach as an example:
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| main parameter dynamic price      | To obtain the results for 4 settings|
+| main parameter(Compare epsion)    |To obtain the results with different radius of ambiguity set $\epsilon$|
+| main parameter(Compare N)    | To obtain the results with different samples number N|
+
 
 
