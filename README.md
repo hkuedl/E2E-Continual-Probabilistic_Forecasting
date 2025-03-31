@@ -9,7 +9,7 @@ conda env create -f environments.yml
 ```
 
 ## Data
-The load data used for experiments can be found in ./Data/GEF_data, and the solar power data used for experiments can be found in ./Data/PV.
+The load data used for experiments can be found in ```./Data/GEF_data```, and the solar power data used for experiments can be found in ```./Data/PV```.
 
 ## Code
 There are two parts of our code, which are for parametric approach probabilistic forecasting and non-parametric approach, respectively.
