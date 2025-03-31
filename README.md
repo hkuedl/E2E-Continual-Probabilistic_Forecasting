@@ -33,3 +33,5 @@ For the ablation experiments related to $N$ and $\epsilon$, please refer to the 
 If you find this repository helpful, please cite our paper:
 
 Yangze Zhou, Yihong Zhou, Thomas Morstyn, and Yi Wang(2025). Decision-focused Learning for Local Energy Communities Management Under Uncertainty. to be released.
+
+You are also welcome to contact us by email: yiwang@eee.hku.hk
