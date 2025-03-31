@@ -2,6 +2,18 @@
 
 This repository contains codes for our paper "Decision-focused Learning for Local Energy Communities Management Under Uncertainty", authored by Yangze Zhou, Yihong Zhou, Thomas Morstyn, and Yi Wang.
 
-## Data
-The load data used for experiments can been find in ./Data/GEF_data, the solar power data used for experiments can been find in ./Data/PV.
+## Environments
+The environments for the code can be installed by
+```
+conda env create -f environments.yml
+```
 
+## Data
+The load data used for experiments can be found in ./Data/GEF_data, and the solar power data used for experiments can be found in ./Data/PV.
+
+## Code
+There are two parts of our code, which are for parametric approach probabilistic forecasting and non-parametric approach, respectively.
+
+
+
+F
