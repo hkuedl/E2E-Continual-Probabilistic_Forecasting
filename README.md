@@ -28,3 +28,8 @@ Our code consists of two parts: one for the parametric approach-based probabilis
  You can find the results for the parametric and non-parametric approaches in the folders labeled ```parameter``` and ```Non parameter```, respectively.
 
 For the ablation experiments related to $N$ and $\epsilon$, please refer to the folders labeled ```Different N``` and ```Different Epsion```.
+
+### Reference
+If you find this repository helpful, please cite our paper:
+
+Yangze Zhou, Yihong Zhou, Thomas Morstyn, and Yi Wang(2025). Decision-focused Learning for Local Energy Communities Management Under Uncertainty. to be released.
