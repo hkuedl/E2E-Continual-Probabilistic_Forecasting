@@ -223,11 +223,11 @@ def calculate_accuracy(args_train, quantiles_list, targets,metric_list=['pinball
             result.append(winkler_score_value)
             print(f'Winkler Score_{alpha}:', winkler_score_value)
         if metric=='MAE':
-            MAE_value=MAE(quantiles_list[0.5], targets)
+            MAE_value=MAE(targets,quantiles_list[0.5])
             result.append(MAE_value)
             print('MAE:', MAE_value)
         if metric=='RMSE':
-            RMSE_value=RMSE(quantiles_list[0.5], targets)
+            RMSE_value=RMSE(targets,quantiles_list[0.5])
             result.append(RMSE_value)
             print('RMSE:', RMSE_value)
     if return_flag:
